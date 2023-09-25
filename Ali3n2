@@ -1,4 +1,4 @@
-
+8
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
@@ -164,8 +164,4 @@ curl -s localhost:26657/status | grep block_height
 
 ---------------------------------------------------
 
-celestia-appd keys add $CELESTIA_WALLET
-
-اطلاعات دریافتی این بخش رو توی نوت پد برای خودتون ذخیره کنید
-
------------------------------------
+celestia-appd keys add
